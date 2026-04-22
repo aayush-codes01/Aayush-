@@ -7,3 +7,5 @@ Aspiring Python Developer | Learning everyday | Open to freelance work
 💼 Open to freelance projects
 📍 India
 🚀 Building projects every day.
+AUTHOR - AAYUSH 
+DAY 1 OF LEARNING ABOUT GIT OR GITHUB.
